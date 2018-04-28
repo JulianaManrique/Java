@@ -1,0 +1,9 @@
+input,
+button {
+    font-size: 1,5cm;
+}
+
+#respuesta {
+    font-size: 3em;
+    font-weight: bold;
+}
